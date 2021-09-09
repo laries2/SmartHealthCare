@@ -1,0 +1,63 @@
+
+h2{
+    color: #002752;
+    padding-bottom: 20px;
+}
+.col1{
+
+    background: #002752;
+    color: white;
+}
+.col-sm-10{
+    border: #002752 10px solid;
+}
+.btn{
+    color: white;
+    background: #002752;
+
+    margin-left: 30px;
+
+}
+.btn:hover{
+    background: #040505;
+    color: lawngreen;
+}
+.col-sm-6{
+    background: #002752;
+    color: lawngreen;
+}
+h6{
+    color: white;
+}
+h3{
+    color: #002752;
+}
+.doct{
+width: 400px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+
+
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input[type=text], input[type=email], input[type=tel], textarea{
+    border-radius: 15px ;
+
+    color: #002752;
+
+}
+h8{
+    text-align: center;
+}
+.cola1{
+    color: #c82333;
+    background-color: #002752;
+}
+.sp{
+    height: 50px;
+}
